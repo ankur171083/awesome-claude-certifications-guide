@@ -76,10 +76,10 @@ There are no formal prerequisites, but the exams test practical judgment rather 
 
 | Track | Practice Test Suite | Highlights |
 | :--- | :--- | :--- |
-| **Associate – Foundations** | [👉 CCAO-F 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-associate-foundations-6-mock-tests/?referralCode=9DDE135504A46E16DEEC) | Realistic prompts, business workflows, governance |
-| **Developer – Foundations** | [👉 CCDV-F 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-developer-foundations-6-mock-tests/?referralCode=6BB55B6A90E9B27EA0B1) | API mechanics, tool calling schemas, error handling & MCP |
-| **Architect – Foundations** | [👉 CCAR-F 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-architect-foundations-6-mock-tests/?referralCode=8D4893F1A2DEC727B7B2) | Prompt caching economics, latency trade-offs, architecture |
-| **Architect – Professional** | [👉 CCAR-P 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-architect-professional-6-mock-tests/?referralCode=BD64E8CD01AEC209837F) | Multi-turn agent systems, enterprise evals, security |
+| **Associate – Foundations** | [CCAO-F 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-associate-foundations-6-mock-tests/?referralCode=9DDE135504A46E16DEEC) 
+| **Developer – Foundations** | [CCDV-F 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-developer-foundations-6-mock-tests/?referralCode=6BB55B6A90E9B27EA0B1)
+| **Architect – Foundations** | [CCAR-F 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-architect-foundations-6-mock-tests/?referralCode=8D4893F1A2DEC727B7B2)
+| **Architect – Professional** | [CCAR-P 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-architect-professional-6-mock-tests/?referralCode=BD64E8CD01AEC209837F)
 
 ---
 
