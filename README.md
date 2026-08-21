@@ -74,8 +74,8 @@ There are no formal prerequisites, but the exams test practical judgment rather 
 2. **External Courses**: Courses on Agentic AI (such as Ed Donner's [Complete Agentic AI Engineering Course](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/) or Krish Naik's GenAI materials) provide good architectural background.
 3. **Timed Mock Exams**: Practice with full-length scenario questions to build speed and comfort with Pearson VUE question phrasing. CCAR-P and specially CCAR-F have very verbose question (including scenario description). It took me full 120 minutes for CCAR-F.
 
-| Track | Practice Test Suite | Highlights |
-| :--- | :--- | :--- |
+| Track | Practice Test Suite |
+| :--- | :--- |
 | **Associate – Foundations** | [CCAO-F 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-associate-foundations-6-mock-tests/?referralCode=9DDE135504A46E16DEEC) 
 | **Developer – Foundations** | [CCDV-F 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-developer-foundations-6-mock-tests/?referralCode=6BB55B6A90E9B27EA0B1)
 | **Architect – Foundations** | [CCAR-F 6 Full Mock Tests (Udemy)](https://www.udemy.com/course/claude-certified-architect-foundations-6-mock-tests/?referralCode=8D4893F1A2DEC727B7B2)
