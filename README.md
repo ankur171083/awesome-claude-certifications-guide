@@ -86,8 +86,8 @@ There are no formal prerequisites for any of the four Claude certification exams
 
 Practice exams with detailed answer rationales (full-length, timed mock tests):
 
-- **CCAO-F** (Associate): [6 Full Mock Tests](https://www.udemy.com/course/claude-certified-associate-foundations-6-mock-tests/?referralCode=9DDE135504A46E16DEEC)
-- **CCDV-F** (Developer): [6 Full Mock Tests](https://www.udemy.com/course/claude-certified-developer-foundations-6-mock-tests/?referralCode=6BB55B6A90E9B27EA0B1)
+- **CCAO-F** (Associate Foundations): [6 Full Mock Tests](https://www.udemy.com/course/claude-certified-associate-foundations-6-mock-tests/?referralCode=9DDE135504A46E16DEEC)
+- **CCDV-F** (Developer Foundations): [6 Full Mock Tests](https://www.udemy.com/course/claude-certified-developer-foundations-6-mock-tests/?referralCode=6BB55B6A90E9B27EA0B1)
 - **CCAR-F** (Architect Foundations): [6 Full Mock Tests](https://www.udemy.com/course/claude-certified-architect-foundations-6-mock-tests/?referralCode=8D4893F1A2DEC727B7B2)
 - **CCAR-P** (Architect Professional): [6 Full Mock Tests](https://www.udemy.com/course/claude-certified-architect-professional-6-mock-tests/?referralCode=BD64E8CD01AEC209837F)
 
